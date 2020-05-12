@@ -13,3 +13,8 @@
 [x] Multiply the operands and save in a product variable
 [x] Find the remainder when one operand is divided by the other and save in a remainder variable. See this page if you need to learn more about the modulo operator.
 [x] print all the results to the screen in a meaningful way.
+
+[x] Some logic to your program that prints our a special message for a user with the of Alice
+[x] Use the type DateTime to represent today.
+
+[x] Move all of your logic to separate file and Call it from the Main method
